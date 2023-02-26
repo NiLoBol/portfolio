@@ -1,0 +1,97 @@
+{
+    "name": {
+        "eng": "Sathaporn",
+        "thai": "สถาพร"
+    },
+    "surname":{
+        "eng": "Euapattana",
+        "thai": "เอื้อพัฒนา"
+    },
+    "introduction":{
+        "eng": "   Hello, my name is Sathaporn (nickname J) and I am interested in learning and developing skills in Frontend Web Development. I believe that web development is an exciting avenue to learn and improve oneself, in order to create something that can help others have a seamless and impressive experience using websites.",
+        "thai": "   สวัสดีครับ ผมชื่อสถาพร (ชื่อเล่นเจ) ผมเป็นคนที่มีความสนใจในการเรียนรู้และพัฒนาทักษะด้านการพัฒนาเว็บไซต์ (Frontend Developer) ผมเชื่อว่าการพัฒนาเว็บไซต์เป็นอีกหนึ่งทางเลือกที่น่าสนใจในการเรียนรู้และพัฒนาตนเอง เพื่อสร้างสิ่งที่สามารถช่วยให้คนอื่นมีประสบการณ์การใช้งานเว็บไซต์ได้อย่างสะดวกและประทับใจ"
+    },
+    "card":[
+        {
+            "name":"Order summary component",
+            "href":"https://chic-sfogliatella-fa0153.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/ouobx6tvyduidzio7wr7.jpg" 
+         },
+         {
+            "name":"Todo app",
+            "href":"https://spectacular-starlight-bb5866.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/ty4ppudcq94rtgj4rv6p.jpg" 
+         },
+         {
+            "name":"Sunnyside agency landing page",
+            "href":"https://magenta-biscotti-834ee0.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/pigotdvhcch2b3wp9uuc.jpg" 
+         },
+         {
+            "name":"E-commerce product page",
+            "href":"https://precious-blancmange-c6f319.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" 
+         },
+         {
+            "name":"Advice generator app",
+            "href":"https://glittering-cranachan-4a65e3.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/sfl8uqvq75wnnr559ksp.jpg" 
+         },
+         {
+            "name":"Profile card component",
+            "href":"https://gleeful-platypus-504548.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/dia0o9uigiiz4gebiqps.jpg" 
+         },
+         {
+            "name":"News homepage",
+            "href":"https://symphonious-malabi-434105.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/abbzt6kmkawmpbj7evxx.jpg" 
+         },
+         {
+            "name":"Expenses chart component",
+            "href":"https://calm-churros-4acc79.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/xhxtaym7uzypzb37rpcc.jpg" 
+         },
+         {
+            "name":"Intro section with dropdown navigation",
+            "href":"https://vocal-sorbet-946e6f.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/rlaxdjplmeul4qe1qvh6.jpg" 
+         },
+         {
+            "name":"3-column preview card component",
+            "href":"https://vocal-gelato-6e2ab5.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/juir90bwmmvlo86g9paz.jpg" 
+         },
+         {
+            "name":"NFT preview card component",
+            "href":"https://loquacious-gecko-00cdfd.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/rinokvkluq95madbvtmk.jpg" 
+         },
+         {
+            "name":"Interactive card details form",
+            "href":"https://silly-kringle-d8a873.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/u57dcsnhvoalnixjt6kb.jpg" 
+         },
+         {
+            "name":"Interactive rating component",
+            "href":"https://magnificent-praline-dda532.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxx2bhmtmeelt0a98zos.jpg" 
+         },
+         {
+            "name":"Product preview card component",
+            "href":"https://tiny-dasik-e32a91.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/lftjtn81b7brs2icc898.jpg" 
+         },
+         {
+            "name":"Notifications page",
+            "href":"https://fantastic-rolypoly-5904f5.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/wgwtjhvnsjnax4k6rdqw.jpg" 
+         },
+         {
+            "name":"QR code component",
+            "href":"https://aquamarine-strudel-79dd0a.netlify.app/",
+            "img":"https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/qh97gysgjrzqyqlig2al.jpg" 
+         }
+    ]
+    
+}
